@@ -1,0 +1,37 @@
+_repo: The-Midnight-Queen_2950
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fleming, May Agnes
+    aliases:
+    - Earlie, M. A. (May Agnes)
+    - Carleton, May
+    - Fleming, May A. (May Agnes)
+    birthdate: 1840
+    deathdate: 1880
+    gutenberg_agent_id: '1074'
+    url: http://www.gutenberg.org/2009/agents/1074
+    wikipedia: http://en.wikipedia.org/wiki/May_Agnes_Fleming
+description: The plague raged in the city of London. The destroying angel had gone
+  forth, and kindled with its fiery breath the awful pestilence, until all London
+  became one mighty lazar-house. Thousands were swept away daily; grass grew in the
+  streets, and the living were scarce able to bury the dead. Business of all kinds
+  was at an end, except that of the coffin-makers and drivers of the pest-carte. Whole
+  streets were shut up, and almost every other house in the city bore the fatal red
+  cross, and the ominous inscription.
+gutenberg_issued: '2001-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plague -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'London (England) -- History -- 17th century -- Fiction'
+- GITenberg
+title: The Midnight Queen
+url: http://www.gutenberg.org/ebooks/2950
