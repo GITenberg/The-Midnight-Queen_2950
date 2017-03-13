@@ -1,5 +1,8 @@
 _repo: The-Midnight-Queen_2950
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fleming, May Agnes
@@ -19,6 +22,8 @@ description: The plague raged in the city of London. The destroying angel had go
   was at an end, except that of the coffin-makers and drivers of the pest-carte. Whole
   streets were shut up, and almost every other house in the city bore the fatal red
   cross, and the ominous inscription.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2950#The-Midnight-Queen
 gutenberg_issued: '2001-12-01'
 gutenberg_type: Text
 identifiers:
